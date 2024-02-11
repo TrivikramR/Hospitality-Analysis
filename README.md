@@ -15,3 +15,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Data Model
 
+<img src="https://github.com/TrivikramR/Hospitality-Analysis/blob/main/Data%20File/H%20Data%20model.png" class="center">
+
+## Dashboard
+
+<img src="https://github.com/TrivikramR/Hospitality-Analysis/blob/main/Data%20File/Hospitality.png" class="center">
+
