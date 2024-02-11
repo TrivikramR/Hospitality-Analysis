@@ -21,5 +21,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 <img src="https://github.com/TrivikramR/Hospitality-Analysis/blob/main/Data%20File/Hospitality.png" class="center">
 
-You can check the report here : [Report]<img src="https://github.com/TrivikramR/Hospitality-Analysis/blob/main/Data%20File/Hospitality.png" class="center">
+You can check the report here : [Report](https://github.com/TrivikramR/Hospitality-Analysis/blob/main/Hospitality%20Project.pbix)
 
